@@ -1,9 +1,9 @@
 # tp-0-presentacion-matias-mtng
 tp-0-presentacion-matias-mtng created by GitHub Classroom
 
-#TP0_Matías Nahuel Montenegro
+# TP0_Matías Nahuel Montenegro
 
-##Presentación personal
+## Presentación personal
 
 - Nombre: Matías Nahuel Montenegro
 - Legajo: 213.902-9
