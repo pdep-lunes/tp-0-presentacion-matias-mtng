@@ -5,8 +5,8 @@ tp-0-presentacion-matias-mtng created by GitHub Classroom
 
 ## Presentación personal
 
-- Nombre: Matías Nahuel Montenegro
-- Legajo: 213.902-9
+- __Nombre__: Matías Nahuel Montenegro
+- __Legajo__: 213.902-9
 [Insertar imagen]
 
 - Hola, mi nombre es Matías. Me suelen llamar Monte o Mati y soy el que dijo que jugaba league of legends cuando la profe preguntó.
