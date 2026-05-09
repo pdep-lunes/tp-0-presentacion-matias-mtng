@@ -1,6 +1,3 @@
-# tp-0-presentacion-matias-mtng
-tp-0-presentacion-matias-mtng created by GitHub Classroom
-
 # TP0_Matías Nahuel Montenegro
 
 ## Presentación personal
